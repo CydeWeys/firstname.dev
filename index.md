@@ -12,8 +12,8 @@ Send a PR if you have any to add.
 
 ## The list
 
-* <https://john.dev> -- John Hilliard
-* <https://jay.dev> -- Jay Mahabal
+* <https://john.dev> -- John Hilliard.  [@praetorian](https://twitter.com/praetorian)
+* <https://jay.dev> -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
 
 ## Honorable mentions
 
