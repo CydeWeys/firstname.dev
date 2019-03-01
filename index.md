@@ -12,11 +12,11 @@ Send a PR if you have any to add.
 
 ## The list
 
-* https://john.dev -- John Hilliard
-* https://jay.dev -- Jay Mahabal
+* <https://john.dev> -- John Hilliard
+* <https://jay.dev> -- Jay Mahabal
 
 ## Honorable mentions
 
 OK, so these aren't first names, but they're too clever to not share.
 
-* https://developersdevelopersdevelopers.dev/elopers/
+* <https://developersdevelopersdevelopers.dev/elopers/>
