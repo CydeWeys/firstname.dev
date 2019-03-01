@@ -14,6 +14,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 
 * <https://john.dev> -- John Hilliard.  [@praetorian](https://twitter.com/praetorian)
 * <https://jay.dev> -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
+* <https://ovidiu.dev/> -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 
 ## Honorable mentions
 
