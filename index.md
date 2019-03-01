@@ -1,14 +1,14 @@
 ---
 layout: page
 title: {firstname}.dev domain names
-description: See which {firstname}.dev domain names people have and how they're using them
+description: See which {firstname}.dev domain names people have and how they're using them.
 ---
 
-This is a page to show off the {firstname}.dev domain names people have and how they're using them.
+Check out the {firstname}.dev domain names that people are using.
 
-Only domains that are actually resolving and hosting real content should be added to this list. No redirects and no blank parking pages.
+Only domains that are actually resolving and hosting real content should be added to this list. No redirects and no blank parking pages. Send a PR if you have any to add.
 
-Send a PR if you have any to add.
+Also check out <https://lastname.dev> and <https://fullname.dev> for other variants.
 
 ## The list
 
