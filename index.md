@@ -17,6 +17,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [jay.dev](https://jay.dev) -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
 * [ludwik.dev](https://ludwik.dev) -- Ludwik Trammer. [@ludwiktrammer](https://twitter.com/ludwiktrammer)
 * [marc.dev](https://marc.dev) -- Marc Backes.  [@\_marcba](https://twitter.com/_marcba)
+* [melody.dev](https://melody.dev) -- Melody Starling.  [@pixelyunicorn](https://twitter.com/pixelyunicorn)
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 
 ## Honorable mentions
