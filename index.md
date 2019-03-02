@@ -12,12 +12,14 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 
 ## The list
 
-* <https://john.dev> -- John Hilliard.  [@praetorian](https://twitter.com/praetorian)
-* <https://jay.dev> -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
-* <https://ovidiu.dev/> -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
+* [john.dev](https://john.dev) -- John Hilliard.  [@praetorian](https://twitter.com/praetorian)
+* [jay.dev](https://jay.dev) -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
+* [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 
 ## Honorable mentions
 
 OK, so these aren't first names, but they're too clever to not share.
 
-* <https://developersdevelopersdevelopers.dev/elopers/>
+* <https://developersdevelopersdevelopers.dev/elopers>
+* <https://emacs.dev>
+* <https://vim.dev>
