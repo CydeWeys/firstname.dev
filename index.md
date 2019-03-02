@@ -17,6 +17,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 * [anders.dev](https://anders.dev) -- Anders Lindén.  [@Anders_Linden](https://twitter.com/Anders_Linden)
 * [ludwik.dev](https://ludwik.dev/) -- Ludwik Trammer. [@ludwiktrammer](https://twitter.com/ludwiktrammer)
+* [jore.dev](https://jore.dev/) -- Jore Booy.
 
 ## Honorable mentions
 
