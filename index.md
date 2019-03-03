@@ -21,6 +21,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 * [tracy.dev](https://tracy.dev) -- Tracy Chou.  [@triketora](https://twitter.com/triketora)
 * [vinny.dev](https://vinny.dev) -- Vinny Carpenter.  [@vscarpenter](https://twitter.com/vscarpenter)
+* [amy.dev](https://amy.dev) -- Amy Nguyen.  [@amyngyn](https://twitter.com/amyngyn)
 
 ## Honorable mentions
 
