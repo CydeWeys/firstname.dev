@@ -19,6 +19,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [marc.dev](https://marc.dev) -- Marc Backes.  [@\_marcba](https://twitter.com/_marcba)
 * [mariam.dev](https://mariam.dev) -- Mariam Maarouf. [@maarouf__](https://twitter.com/maarouf__)
 * [melody.dev](https://melody.dev) -- Melody Starling.  [@pixelyunicorn](https://twitter.com/pixelyunicorn)
+* [monika.dev](https://monika.dev) -- Monika Hoex. [@evi1pilotfish](https://twitter.com/evi1pilotfish)
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 * [tracy.dev](https://tracy.dev) -- Tracy Chou.  [@triketora](https://twitter.com/triketora)
 * [vinny.dev](https://vinny.dev) -- Vinny Carpenter.  [@vscarpenter](https://twitter.com/vscarpenter)
@@ -31,3 +32,4 @@ OK, so these aren't first names, but they're too clever to not share.
 * [emacs.dev](https://emacs.dev)
 * [smallindie.dev](https://smallindie.dev)
 * [vim.dev](https://vim.dev)
+* [w3schools.dev](https://w3schools.dev)
