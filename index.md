@@ -19,12 +19,14 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [marc.dev](https://marc.dev) -- Marc Backes.  [@\_marcba](https://twitter.com/_marcba)
 * [melody.dev](https://melody.dev) -- Melody Starling.  [@pixelyunicorn](https://twitter.com/pixelyunicorn)
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
+* [tracy.dev](https://tracy.dev) -- Tracy Chou.  [@triketora](https://twitter.com/triketora)
 * [vinny.dev](https://vinny.dev) -- Vinny Carpenter.  [@vscarpenter](https://twitter.com/vscarpenter)
 
 ## Honorable mentions
 
 OK, so these aren't first names, but they're too clever to not share.
 
-* <https://developersdevelopersdevelopers.dev/elopers>
-* <https://emacs.dev>
-* <https://vim.dev>
+* [developersdevelopersdevelopers.dev/elopers](https://developersdevelopersdevelopers.dev/elopers)
+* [emacs.dev](https://emacs.dev)
+* [smallindie.dev](https://smallindie.dev)
+* [vim.dev](https://vim.dev)
