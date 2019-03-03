@@ -19,6 +19,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [john.dev](https://john.dev) -- John Hilliard.  [@praetorian](https://twitter.com/praetorian)
 * [jay.dev](https://jay.dev) -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
 * [josiah.dev](https://josiah.dev) -- Josiah Somani.  [@josiahsomani](https://twitter.com/josiahsomani)
+* [kristen.dev](https://kristen.dev) -- Kristen Kwong. [@kristenkwng](https://twitter.com/kristenkwng)
 * [ksenia.dev](https://ksenia.dev) -- Ksenia Burlachenko. [@ksenish](https://twitter.com/ksenish)
 * [ludwik.dev](https://ludwik.dev) -- Ludwik Trammer. [@ludwiktrammer](https://twitter.com/ludwiktrammer)
 * [marc.dev](https://marc.dev) -- Marc Backes.  [@\_marcba](https://twitter.com/_marcba)
