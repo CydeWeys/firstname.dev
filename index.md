@@ -12,9 +12,11 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 
 ## The list
 
+* [amy.dev](https://amy.dev) -- Amy Nguyen.  [@amyngyn](https://twitter.com/amyngyn)
 * [anders.dev](https://anders.dev) -- Anders Lindén.  [@Anders_Linden](https://twitter.com/Anders_Linden)
 * [john.dev](https://john.dev) -- John Hilliard.  [@praetorian](https://twitter.com/praetorian)
 * [jay.dev](https://jay.dev) -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
+* [josiah.dev](https://josiah.dev) -- Josiah Somani.  [@josiahsomani](https://twitter.com/josiahsomani)
 * [ksenia.dev](https://ksenia.dev) -- Ksenia Burlachenko. [@ksenish](https://twitter.com/ksenish)
 * [ludwik.dev](https://ludwik.dev) -- Ludwik Trammer. [@ludwiktrammer](https://twitter.com/ludwiktrammer)
 * [marc.dev](https://marc.dev) -- Marc Backes.  [@\_marcba](https://twitter.com/_marcba)
@@ -24,7 +26,6 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 * [tracy.dev](https://tracy.dev) -- Tracy Chou.  [@triketora](https://twitter.com/triketora)
 * [vinny.dev](https://vinny.dev) -- Vinny Carpenter.  [@vscarpenter](https://twitter.com/vscarpenter)
-* [amy.dev](https://amy.dev) -- Amy Nguyen.  [@amyngyn](https://twitter.com/amyngyn)
 
 ## Honorable mentions
 
