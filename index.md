@@ -29,6 +29,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [melody.dev](https://melody.dev) -- Melody Starling.  [@pixelyunicorn](https://twitter.com/pixelyunicorn)
 * [monika.dev](https://monika.dev) -- Monika Hoex. [@evi1pilotfish](https://twitter.com/evi1pilotfish)
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
+* [rinae.dev](https://rinae.dev) -- Rinae.  [@adhrinae](https://twitter.com/adhrinae)
 * [talia.dev](https://talia.dev) -- Talia Trilling.  [@taliatrilling](https://twitter.com/taliatrilling)
 * [tracy.dev](https://tracy.dev) -- Tracy Chou.  [@triketora](https://twitter.com/triketora)
 * [vinny.dev](https://vinny.dev) -- Vinny Carpenter.  [@vscarpenter](https://twitter.com/vscarpenter)
