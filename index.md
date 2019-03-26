@@ -33,6 +33,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [mariam.dev](https://mariam.dev) -- Mariam Maarouf. [@maarouf__](https://twitter.com/maarouf__)
 * [melody.dev](https://melody.dev) -- Melody Starling.  [@pixelyunicorn](https://twitter.com/pixelyunicorn)
 * [monika.dev](https://monika.dev) -- Monika Hoex. [@evi1pilotfish](https://twitter.com/evi1pilotfish)
+* [muhammad.dev](https://muhammad.dev) -- Muhammad Muhsin. [@muhsinlk](https://twitter.com/muhsinlk)
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 * [rahat.dev](https://rahat.dev) -- Rahat Chowdhury.  [@Rahatcodes](https://twitter.com/Rahatcodes)
 * [rinae.dev](https://rinae.dev) -- Rinae.  [@adhrinae](https://twitter.com/adhrinae)
