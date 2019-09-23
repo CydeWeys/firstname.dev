@@ -23,6 +23,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [jesus.dev](https://jesus.dev) -- Jesús Palos. [@JesusRPalos](https://twitter.com/JesusRPalos)
 * [john.dev](https://john.dev) -- John Hilliard.  [@praetorian](https://twitter.com/praetorian)
 * [jay.dev](https://jay.dev) -- Jay Mahabal.  [@JayMahabal](https://twitter.com/JayMahabal)
+* [jore.dev](https://jore.dev/) -- Jore Booy.
 * [jose.dev](https://jose.dev) -- Jose Santos.  [@JMSantos94](https://twitter.com/JMSantos94)
 * [josiah.dev](https://josiah.dev) -- Josiah Somani.  [@josiahsomani](https://twitter.com/josiahsomani)
 * [kaitlin.dev](https://kaitlin.dev) -- Kaitlin Mahar. [@k__mahar](https://twitter.com/k__mahar)
