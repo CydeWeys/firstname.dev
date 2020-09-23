@@ -34,6 +34,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [marc.dev](https://marc.dev) -- Marc Backes.  [@\_marcba](https://twitter.com/_marcba)
 * [mariam.dev](https://mariam.dev) -- Mariam Maarouf. [@maarouf__](https://twitter.com/maarouf__)
 * [marvin.dev](https://marvin.dev) -- Marvin Parada. [@iamthismarvin](https://twitter.com/iamthismarvin)
+* [mckayla.dev](https://mckayla.dev) -- McKayla Washburn. [@partheseas](https://twitter.com/partheseas)
 * [melody.dev](https://melody.dev) -- Melody Starling.  [@pixelyunicorn](https://twitter.com/pixelyunicorn)
 * [monika.dev](https://monika.dev) -- Monika Hoex. [@evi1pilotfish](https://twitter.com/evi1pilotfish)
 * [muhammad.dev](https://muhammad.dev) -- Muhammad Muhsin. [@muhsinlk](https://twitter.com/muhsinlk)
