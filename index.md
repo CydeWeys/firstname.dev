@@ -15,6 +15,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [adin.dev](https://adin.dev) -- Adin Kwok.
 * [amy.dev](https://amy.dev) -- Amy Nguyen.  [@amyngyn](https://twitter.com/amyngyn)
 * [anders.dev](https://anders.dev) -- Anders Lindén.  [@Anders_Linden](https://twitter.com/Anders_Linden)
+* [ashleigh.dev](https://ashleigh.dev) -- Ashleigh Adams.  [@AshleighAdmz](https://twitter.com/AshleighAdmz)
 * [benedikt.dev](https://benedikt.dev) -- Benedikt Wüller.
 * [den.dev](https://den.dev) -- Den Delimarsky. [@DennisCode](https://twitter.com/denniscode)
 * [duncan.dev](https://duncan.dev) -- Duncan Davidson.  [@duncan](https://twitter.com/duncan)
