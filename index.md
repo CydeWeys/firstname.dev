@@ -42,6 +42,7 @@ Also check out <https://lastname.dev> and <https://fullname.dev> for other varia
 * [muhammad.dev](https://muhammad.dev) -- Muhammad Muhsin. [@muhsinlk](https://twitter.com/muhsinlk)
 * [ovidiu.dev](https://ovidiu.dev) -- Ovidiu Bute.  [@ovidiubute](https://twitter.com/ovidiubute)
 * [rahat.dev](https://rahat.dev) -- Rahat Chowdhury.  [@Rahatcodes](https://twitter.com/Rahatcodes)
+* [rama.dev](https://rama.dev) -- Rama Krishna.
 * [rinae.dev](https://rinae.dev) -- Rinae.  [@adhrinae](https://twitter.com/adhrinae)
 * [talia.dev](https://talia.dev) -- Talia Trilling.  [@taliatrilling](https://twitter.com/taliatrilling)
 * [tracy.dev](https://tracy.dev) -- Tracy Chou.  [@triketora](https://twitter.com/triketora)
